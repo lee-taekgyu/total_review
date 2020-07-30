@@ -1,0 +1,3 @@
+DNA = 'GATGGAACTTGACTACGTAAATT'
+print(DNA.replace('T','U'))
+
